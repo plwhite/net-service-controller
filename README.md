@@ -3,7 +3,9 @@
 This is a Multus aware service controller, allowing the creation of headless
 services on Multus additional networks.
 
-*This is a temporary home for it, until it has been moved to a permanent home.*
+*This was a temporary home for this code, and the master copy has moved to
+https://github.com/k8snetworkplumbingwg/net-service-controller. This repo will
+likely be removed in future.*
 
 ## Build
 
